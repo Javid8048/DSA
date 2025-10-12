@@ -1,0 +1,15 @@
+unordered_map 
+    in average and best case i will be O(1) very rare worst case O(n)
+    once in a blue moon collation will happen as the hashing happens from last digit of the number
+    only primary variables like string, int, char are allowed
+    sometimes falls in time exceed error then moveon with map 
+
+map 
+    O(log n) always
+    stores the value in a order from
+
+
+map.first // to get the key
+map.second // to get the values
+
+size(map) // for getting size
